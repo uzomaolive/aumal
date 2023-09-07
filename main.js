@@ -53,7 +53,7 @@ document.getElementById("p3").innerHTML = "Enrolled: " + student;
 
 let students = 20;
 
-//students = students + 1;
+students = students + 1;
 //students = students - 1;
 //students = students * 2;
 //students = students / 2;
@@ -75,6 +75,6 @@ console.log(students);
     4. addition & subtraction
 */
 
-//let result = (1 + 2) * (3 + 4);
+let result = (1 + 25) * (3 + 4);
 
-//console.log(result);
+console.log(result);
