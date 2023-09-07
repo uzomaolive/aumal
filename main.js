@@ -12,10 +12,10 @@
 // let age = 25;
 // let message = 'Hello';
 
-let user, name; // can declare two variables at once
+// let user, name; // can declare two variables at once
 
-name = "Aummal";
+// name = "Aummal";
 
-admin = name;
+// admin = name;
 
-alert( admin ); // "John"
+// alert( admin ); // "John"
